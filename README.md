@@ -53,6 +53,10 @@ git clone https://github.com/akprodromou/vanguard-ab-testing.git
 
 pip install -r requirements.txt
 
+## Tableau Dashboard Presentation
+
+https://public.tableau.com/authoring/VanguardABTesting-AP/Dashboard1/Dashboard#1
+
 
 
 
