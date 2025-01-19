@@ -41,12 +41,11 @@ The dataset consists of user interactions at different process steps:
 - **Iterate on the Test variation based on user feedback** and run a follow-up experiment.
 
 ## Repository Structure
-/ab_testing_project/
-│── 📄 README.md  # Project documentation
-│── 📄 data.csv   # Dataset used for analysis
-│── 📄 analysis.ipynb  # Jupyter Notebook with data exploration and statistical tests
-│── 📄 results_summary.md  # Summary of results & conclusions
-│── 📄 requirements.txt  # Dependencies for running the project
+
+- **`README.md`** → Project documentation
+- **`data`** - Datasets used in the analysis
+- **`analysis.ipynb`** → Contains the full A/B testing analysis (completion rates, error rates, statistical tests).
+- **`requirements.txt`** → Lists Python dependencies.
 
 ## How to Run the Analysis
 
