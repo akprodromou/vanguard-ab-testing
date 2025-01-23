@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## Tableau Dashboard Presentation
 
-https://public.tableau.com/authoring/VanguardABTesting-AP/Dashboard1/Dashboard#1
+https://public.tableau.com/views/VanguardABTesting-AP/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
 
