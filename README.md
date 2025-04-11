@@ -12,20 +12,20 @@ The dataset consists of user interactions at different process steps:
   - Drop-off rates
 
 ## Hypothesis & Testing Approach
-### 1️. Completion Rates
+### 1. Completion Rates
 - **Hypothesis:** Users in the Test group will have a significantly higher completion rate.
 - **Null Hypothesis:** No significant difference between Test and Control completion rates.
 - **Result:** Test group completion rate **↑ 1.53%** compared to Control (**statistically significant**).
 
-### 2️. Time Spent Per Step
+### 2. Time Spent Per Step
 - **Hypothesis:** The Test group will complete steps faster than the Control group.
 - **Findings:** Test users were **slower at start and step 1**, but **faster at step 2 and step 3**.
 
-### 3️. Error Rates (Step Backs & Step Repeats)
+### 3. Error Rates (Step Backs & Step Repeats)
 - **Hypothesis:** Test users will experience fewer errors.
 - **Findings:** Error rates were **mostly similar**, but Test users had **more step back errors at the start**.
 
-### 4️. Drop-Off Rates
+### 4. Drop-Off Rates
 - **Hypothesis:** The Test group will have lower drop-offs at key steps.
 - **Findings:** Drop-off rates **were slightly higher in the Test group at the start**, indicating initial friction.
 
